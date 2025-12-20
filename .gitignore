@@ -213,6 +213,7 @@ workspace/
 # LLM configuration directory (contains API keys and sensitive configs)
 .llm_config/
 !.llm_config/example.json
+!.llm_config/openai-gpt4.json
 
 # Evaluation outputs
 eval_outputs/
